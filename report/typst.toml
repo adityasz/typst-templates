@@ -1,0 +1,8 @@
+[package]
+name = "report"
+version = "0.1.0"
+entrypoint = "lib.typ"
+repository = "https://github.com/adityasz/typst-templates"
+authors = ["Aditya Singh <1adityasingh@proton.me>"]
+license = "MIT-0"
+description = "A report template"
